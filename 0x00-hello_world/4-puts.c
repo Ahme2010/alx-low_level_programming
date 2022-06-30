@@ -1,8 +1,8 @@
 #!/bin/bash
 #include<stdio.h>
 /**
-* main -start point
-* Return: 0 if it is proper, othrwise non-zero
+* main -entry point
+* Return: Always 0 (sucess) 
 */
 int main(void)
 {
