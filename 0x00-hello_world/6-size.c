@@ -1,7 +1,7 @@
-#include <stdio.h>                                                                                                                       
+#include<stdio.h>                                                                                                                       
 /**                                                                                                                                      
-* main - prints the size of various types on the computer                                                                                
-* Return: returns the value 0 if exit properly, non-zero otherwise                                                                       
+* main - prints points                                                                                
+* Return: 0 if exit properly                                                                       
 */                                                                                                                                       
 int main(void)                                                                                                                           
 {                                                                                                                                        
