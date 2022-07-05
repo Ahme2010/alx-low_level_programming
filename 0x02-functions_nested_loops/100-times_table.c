@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_time_table - prints the n time table, starting with 0
- * @n: number of the time table
+ * print_times_table - prints the n times table, starting with 0
+ * @n: number of the times table
  */
-void print_time_table(int n)
+void print_times_table(int n)
 {
 int i, j, k;
 if (n >= 0 && n <= 15)
