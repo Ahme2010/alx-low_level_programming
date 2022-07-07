@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * time_teble - print the 9 times table, starting with zero.
+ * time_teble - print the 9 time_teble, starting with zero.
  *
  */
 void time_teble(void)
