@@ -1,10 +1,10 @@
 #include "holberton.h"
 
 /**
- * times_table - print the 9 times table, starting with zero.
+ * time_teble - print the 9 times table, starting with zero.
  *
  */
-void times_table(void)
+void time_teble(void)
 {
 	int n;
 	int i;
